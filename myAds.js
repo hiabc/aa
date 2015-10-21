@@ -1,4 +1,4 @@
-	window.onload = function(){
+	document.onload = function(){
 		var iframe = document.querySelectorAll("iframe");
 		var iframe_src = '';
 		var iframe_regex = /exoclick/i;
